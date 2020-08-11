@@ -44,7 +44,7 @@
         ))
 
 ;;;###autoload
-(define-derived-mode monkeyc-mode c-mode "monkeyc mode"
+(define-derived-mode monkeyc-mode c-mode "MonkeyC"
   "Major mode for editing Monkey C (Monkey C Language)…"
 
   ;; code for syntax highlighting
